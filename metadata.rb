@@ -1,0 +1,7 @@
+name 'secret_sauce'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures secret_sauce'
+long_description 'Installs/Configures secret_sauce'
+version '0.1.0'
